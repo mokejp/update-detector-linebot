@@ -1,0 +1,4 @@
+cron:
+- description: "check update"
+  url: /cron
+  schedule: every 5 minutes
