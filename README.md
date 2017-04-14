@@ -2,7 +2,7 @@
 
 The LINE bot to notify web pages update. (for GAE)
 
-![screenshot](http://i.imgur.com/XnjnHPC.png)
+<img src="http://i.imgur.com/XnjnHPC.png" width="300" alt="screenshot">
 
 ## Usage
 
