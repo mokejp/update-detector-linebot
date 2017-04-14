@@ -2,6 +2,8 @@
 
 The LINE bot to notify web pages update. (for GAE)
 
+![screenshot](http://i.imgur.com/XnjnHPC.png)
+
 ## Usage
 
 ### 1. Add the `app.yaml`
